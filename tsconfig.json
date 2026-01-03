@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "src/app/layout.tsx", "src/app/page.jsx", "tailwind.config.ts", "src/components/layout/Container.tsx", "src/components/layout/Footer.tsx", "src/components/layout/Navbar.tsx", "src/components/sections/BeliefText.tsx", "src/components/sections/BentoGrid.tsx", "src/components/sections/Hero.tsx", "src/components/sections/SplitSections.tsx", "src/components/ui/Card.jsx", "src/components/sections/Befliet"  ],
   "exclude": ["node_modules"]
 }
