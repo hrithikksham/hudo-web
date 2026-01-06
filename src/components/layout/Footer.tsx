@@ -23,6 +23,13 @@ export default function Footer() {
           
           <div className="text-left md:text-right flex flex-col gap-2">
             <span className="text-xs text-gray-400 uppercase tracking-widest font-bold">Contact</span>
+            <a
+              href="mailto:contact@hudo.co.in"
+              className="text-xl md:text-2xl text-gray-900 hover:text-gray-600 transition-colors duration-300 font-medium"
+            >
+              contact@hudo.co.in
+            </a>
+            
             <a 
               href="tel:9500677722" 
               className="text-xl md:text-2xl text-gray-900 hover:text-gray-600 transition-colors duration-300 font-medium"
