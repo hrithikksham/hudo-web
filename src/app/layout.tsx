@@ -12,8 +12,10 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "HUDO | Software built for reality",
-  description: "Calm, reliable software for enterprise teams.",
+  icons:{
+    icon : "../../public/favicon.png
+  title: "HUDO",
+  description: "Calm, reliable software for Business Enterprises.",
 };
 
 export default function RootLayout({
