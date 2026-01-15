@@ -12,11 +12,13 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  icons:{
-    icon : "../../public/favicon.png
   title: "HUDO",
   description: "Calm, reliable software for Business Enterprises.",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
+
 
 export default function RootLayout({
   children,
